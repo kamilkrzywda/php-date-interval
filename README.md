@@ -22,7 +22,7 @@ Installation
 Add it to your list of Composer dependencies:
 
 ```sh
-$ composer require herrera-io/date-interval=1.*
+$ composer require kamilkrzywda/date-interval=1.*
 ```
 
 Usage
