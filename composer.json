@@ -2,7 +2,7 @@
     "name": "kamilkrzywda/date-interval",
     "description": "Provides additional functionality to the DateInterval class.",
     "keywords": ["date", "time", "interval"],
-    "homepage": "hhttps://github.com/kamilkrzywda/php-date-interval",
+    "homepage": "https://github.com/kamilkrzywda/php-date-interval",
     "license": "MIT",
     "authors": [
         {
